@@ -18,7 +18,7 @@
 </div>
 <br>
     <p align="center"><i>Loved the project? Please <a href="https://ko-fi.com/tetrasam">Buy me a Coffee</a></i></p>
-    
+
 ---
 <!-- Aim of this repo -->
 This repo aims to give you all general purpose README.md templates. You are free to add / modify / and remove anything from any of our templates.
@@ -26,3 +26,14 @@ This repo aims to give you all general purpose README.md templates. You are free
 Also if you agree our terms for that anyone can change your designed readme file, then you can FORK and PR in this repo. We will be happy to add your template in our database.
 
 If you like this Repo, Please click the <code> <span title="Star">⭐</span> </code>
+
+---
+
+<!-- Contents of this repo -->
+## What you will get from this Repo?
+
+  - [TEMPLATES BASED ON PROFILE CATEGORY](#templates-based-onprofile-category)
+  - [README PROFILE TOOLS](#readme-profile-tools)
+  - [README DESIGNING CHEAT SHEET](#readme-designing-cheat-sheet)
+  - [HOW TO CREATE A PROFESSIONAL README FILE](#how-to-design-a-professional-readme-file)
+  - [HOW TO ADD A LICENSING FILE IN GITHUB](#how-to-design-a-professional-readme-file)
