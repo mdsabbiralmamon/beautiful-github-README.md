@@ -18,8 +18,7 @@
 </div>
 <br>
     <p align="center"><i>Loved the project? Please <a href="https://ko-fi.com/tetrasam">Buy me a Coffee</a></i></p>
-<br>
-
+    
 ---
 <!-- Aim of this repo -->
 This repo aims to give you all general purpose README.md templates. You are free to add / modify / and remove anything from any of our templates.
