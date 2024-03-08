@@ -9,8 +9,8 @@
 ---
 title: Readme Title
 date: '2024-03-08'
-spoiler: Art Readme Template
-categories: ["Art", "all-profile"]
+spoiler: ShortAndSweet Readme Template
+categories: ["ShortAndSweet", "all-profile"]
 githubUsername: ''
 ---
 

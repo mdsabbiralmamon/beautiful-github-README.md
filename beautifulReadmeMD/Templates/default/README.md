@@ -7,9 +7,9 @@
 ```js
 
 ---
-title: Readme Title
+title: Default Title
 date: '2024-03-08'
-spoiler: Art Readme Template
+spoiler: Default Readme Template
 categories: ["Art", "all-profile"]
 githubUsername: ''
 ---
