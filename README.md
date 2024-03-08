@@ -44,17 +44,17 @@ If you like this Repo, Please click the <code> <span title="Star">⭐</span> </c
 
 ## Github README PROFILE CATEGORY
 
-- [ ] [Art](art)
-- [ ] [Code Styled](code-styled)
-- [ ] [Creativity](creativity)
-- [ ] [Flowcharts](flowcharts)
-- [ ] [Default](default)
-- [ ] [Dynamic Realtime](dynamic-realtime)
-- [ ] [Elaborate](elaborate)
-- [ ] [Multimedia](multimedia)
-- [ ] [Short-and-sweet](short-and-sweet)
-- [ ] [Tabular](tabular)
-- [ ] [Pie Charts](pie-charts)
+- [ ] [Art](beautifulReadmeMD/Templates/art)
+- [ ] [Code Styled](beautifulReadmeMD/Templates/code-styled)
+- [ ] [Creativity](beautifulReadmeMD/Templates/creativity)
+- [ ] [Flowcharts](beautifulReadmeMD/Templates/flowcharts)
+- [ ] [Default](beautifulReadmeMD/Templates/default)
+- [ ] [Dynamic Realtime](beautifulReadmeMD/Templates/dynamic-realtime)
+- [ ] [Elaborate](beautifulReadmeMD/Templates/elaborate)
+- [ ] [Multimedia](beautifulReadmeMD/Templates/multimedia)
+- [ ] [Short-and-sweet](beautifulReadmeMD/Templates/short-and-sweet)
+- [ ] [Tabular](beautifulReadmeMD/Templates/tabular)
+- [ ] [Pie Charts](beautifulReadmeMD/Templates/pie-charts)
 
 View more at : [All Categories](https://github.com/mdsabbiralmamon/beautiful-github-README.md/tree/main/beautifulReadmeMD/Templates/)
 
