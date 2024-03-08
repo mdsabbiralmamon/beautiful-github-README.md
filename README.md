@@ -88,3 +88,24 @@ View more at : [All Profile Tools]()
 
 ---
 
+<!-- README DESIGNING CHEAT SHEET -->
+
+## README DESIGNING CHEAT SHEET
+
+coming soon ...
+
+---
+
+<!-- HOW TO CREATE A PROFESSIONAL README FILE -->
+
+## HOW TO CREATE A PROFESSIONAL README FILE
+
+coming soon ...
+
+---
+
+<!-- HOW TO ADD A LICENSING FILE IN GITHUB -->
+
+## HOW TO ADD A LICENSING FILE IN GITHUB
+
+coming soon ...
