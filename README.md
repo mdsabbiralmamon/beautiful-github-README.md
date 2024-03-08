@@ -40,4 +40,20 @@ If you like this Repo, Please click the <code> <span title="Star">⭐</span> </c
 
 ---
 
-<!-- Working in progress -->
+<!-- TEMPLATES BASED ON PROFILE CATEGORY -->
+
+## Github README PROFILE CATEGORY
+
+- [ ] [Art](art)
+- [ ] [Code Styled](code-styled)
+- [ ] [Creativity](creativity)
+- [ ] [Flowcharts](flowcharts)
+- [ ] [Default](default)
+- [ ] [Dynamic Realtime](dynamic-realtime)
+- [ ] [Elaborate](elaborate)
+- [ ] [Multimedia](multimedia)
+- [ ] [Short-and-sweet](short-and-sweet)
+- [ ] [Tabular](tabular)
+- [ ] [Pie Charts](pie-charts)
+
+View more at : [All Categories](https://github.com/mdsabbiralmamon/beautiful-github-README.md/tree/main/beautifulReadmeMD/Templates/)
