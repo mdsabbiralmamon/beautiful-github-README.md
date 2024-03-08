@@ -1,7 +1,7 @@
 ---
-title: Default Readme
+title: Front End dev dynamic Readme
 date: '2024-03-08'
-spoiler: Default Readme Template
+spoiler: Dynamic Template
 categories: ["default", "all-profile"]
 githubUsername: 'mdsabbiralmamon'
 ---
