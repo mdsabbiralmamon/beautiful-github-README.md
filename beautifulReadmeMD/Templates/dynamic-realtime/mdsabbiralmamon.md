@@ -2,7 +2,7 @@
 title: Front End dev dynamic Readme
 date: '2024-03-08'
 spoiler: Dynamic Template
-categories: ["default", "all-profile"]
+categories: ["dynamic", "all-profile"]
 githubUsername: 'mdsabbiralmamon'
 ---
 
