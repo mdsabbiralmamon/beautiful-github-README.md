@@ -32,11 +32,11 @@ If you like this Repo, Please click the <code> <span title="Star">⭐</span> </c
 <!-- Contents of this repo -->
 ## What you will get from this Repo?
 
-  - [TEMPLATES BASED ON PROFILE CATEGORY](#templates-based-onprofile-category)
-  - [README PROFILE TOOLS](#readme-profile-tools)
+  - [TEMPLATES BASED ON PROFILE CATEGORY](#github-readme-profile-category)
+  - [README PROFILE TOOLS](#list-of-readme-profile-tools)
   - [README DESIGNING CHEAT SHEET](#readme-designing-cheat-sheet)
-  - [HOW TO CREATE A PROFESSIONAL README FILE](#how-to-design-a-professional-readme-file)
-  - [HOW TO ADD A LICENSING FILE IN GITHUB](#how-to-design-a-professional-readme-file)
+  - [HOW TO CREATE A PROFESSIONAL README FILE](#how-to-create-a-professional-readme-file)
+  - [HOW TO ADD A LICENSING FILE IN GITHUB](#how-to-add-a-licensing-file-in-github)
 
 ---
 
